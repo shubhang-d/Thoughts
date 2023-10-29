@@ -1,8 +1,8 @@
+import 'package:Thoughts/Data/ImageData.dart';
+import 'package:Thoughts/Screens/wallpaper_preview.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:image_editor_plus/image_editor_plus.dart';
-import 'package:wallpaper_app/Data/ImageData.dart';
-import 'package:wallpaper_app/wallpaper_preview.dart';
 
 class ImageEditorExample extends StatefulWidget {
   const ImageEditorExample({super.key, required this.imageDataList});

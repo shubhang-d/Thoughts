@@ -1,6 +1,6 @@
+import 'package:Thoughts/Data/ImageData.dart';
+import 'package:Thoughts/Screens/edit_image.dart';
 import 'package:flutter/material.dart';
-import 'package:wallpaper_app/Data/ImageData.dart';
-import 'package:wallpaper_app/Screens/edit_image.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
