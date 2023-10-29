@@ -54,6 +54,7 @@ https://github.com/shubhang-d/Thoughts/assets/143957984/c4406341-9013-4937-8d4a-
 - Planning to add more images in the Choose Background Image Section.
 - A SQL database will be added for user to put their own images in the Choose Background Section.
 - SQL Database will store all the edited images. So, the User can switch to previously created wallpapers without creating them again.
+- Maybe I'll make an apk file for it and put it on play Store.
 
 AND For Conclusion, I just want to say that
 > I am Open To Ideas.
