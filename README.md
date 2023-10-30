@@ -3,7 +3,7 @@
 This is an app which puts your Thoughts on an image and makes it your Wallpaper.
 So You Don't Forget Anything.
 
-It contains of three Screens namely:
+It consists of three Screens namely:
 - Choose Backgorund Image: To choose The Background Image for your Wallpaper. It currently has only two Images but I will add more in the near future.
 
   <img src="https://github.com/shubhang-d/Thoughts/assets/143957984/03c94498-ba1d-4112-9dc3-41a7fe77d32f)" width="25%" height="25%">
